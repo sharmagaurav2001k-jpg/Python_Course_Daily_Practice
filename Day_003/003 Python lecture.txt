@@ -1,0 +1,136 @@
+=========================================================== Lecture 3 Python Basics (Part 2) ===================================================================================
+
+Reminder: 
+
+Kal humne sikha tha ki VS Code mein folder kaise open karte hain, 
+
+.py file kaise banate hain, 
+
+aur print() function kya karta hai.
+
+Today Continue:
+
+============================================================
+Topic 1: Comments Kya Hote Hain? (Very Important)
+=========
+
+Jab hum bade bade software banate hain, toh code bahut lamba hota hai. Comments ka use hum apne code ko explain karne ke liye karte hain.
+* Python Comments ko padhta hi nahi hai (ye skip kar deta hai)
+* Comments banane ke liye hum # (Hash) ka use karte hain.
+
+
+Note : Kabhi bhi comment Out put mein show nahi hota, bah sirf sirf code ke bare mein detail mention karne ke liye hota hai.
+
+Example 1 :  # Single line comment
+
+
+# Yeh meri first coding hai
+                 print("Hello Python")
+
+
+
+Example 2 : #Single line comment
+
+            # Yaha par aapko dhaya dena chahiye
+                 Print("Enjoy this course")      #Yaha par bhi comment use kar sakte ho
+
+            # aap program ke line ke start mein end mein kahi par bhi comment ka use kar sakte hai
+
+Example 3 : Multi-line comment: ''' ... '''
+     '''
+     Yeh multi-line comment hai
+     Isme kai lines likh sakte hain
+     Python isko ignore karta hai
+     '''
+
+     print("Hello Python")
+
+
+Example 4 : Multi-line comment: """ ... """
+
+"""
+Yeh multi-line comment hai
+Isme kai lines likh sakte hain
+Python isko ignore karta hai
+"""
+
+print("Hello Python")
+
+
+============================================================
+Topic 2: Variables Kya Hote Hain? (Very Important)
+===============
+
+-Variable kya hota hai?
+
+-Variable mein value kaise store karte hain?
+
+- Variable naming rules ?
+
+
+Question : Variable kya hota hai ?
+
+Ans : Variable ek naam hota hai jo kisi value ko store karne ke liye use hota hai 
+     — jaise ek dabba (box) jisme aap data rakh sakte ho aur baad mein use kar sakte ho.
+
+
+Example:
+
+          # Variable banate hain
+          name = "Rahul"
+          age = 25
+          height = 5.9
+
+Note : name, age, height all are variable. 
+       And aap koi bhi word ka use kar ke varible create kar sakte hai, project mein direct use karne ke liye.
+       Lekin variable banane ke rule hote hai jo aap ko variable banate samay dhayan rakhna hoga.
+
+
+Rule for the variable :
+                    # Rule 1: Sirf letters, numbers aur underscore (_) allowed hai
+                    # Rule 2: Number se start nahi kar sakte
+                    # Rule 3: Space allowed nahi, underscore use karo
+                    # Rule 4: Special characters (@, #, -, %) allowed nahi
+                    # Rule 5: Case-sensitive hota hai (chhoti aur badi letter alag maani jaati hai)
+                    # Rule 6: Python ke reserved keywords use nahi kar sakte
+
+
+Note : agar aapko in sabhi rule ko yaad nahi rakhna to always small charecters use kar ke jab bhi space aaye to space ke badle "_" ka use kariye.
+       ye paython ka sabse easy trick hai variable ko create karne ke liye.
+
+
+     Like: name = "GRV"
+           age = 24
+
+
+============================================================
+Topic 3: Data Types Kya Hote Hain?
+===============
+
+- variable ke right side jo value hoti hai use data kahte hai, 
+     or vah kis type ka data hai yah janne ke liye "type()" ka use kiya jata hai.
+
+
+Data type : String, integer, Float, Complex, boolean, non
+
+
+String :
+
+- String ek data type hai jo text ya characters ke sequence ko represent karta hai. 
+     Ise hamesha single quotes (' ') ya double quotes (" ") ke andar likha jaata hai.
+
+# Single quotes wali string
+naam = 'Rahul'
+
+# Double quotes wali string
+message = "Hello Python"
+
+# Numbers bhi agar quotes mein hain, to wo string ban jaate hain
+roll_no = "101"   # Ye string hai, number nahi
+
+
+Note : Variable ke right side quotes ke bich mein ane wale all keyword ko string kahte hai.
+
+
+
+          
