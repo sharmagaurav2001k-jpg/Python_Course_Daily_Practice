@@ -34,7 +34,3 @@ print("Thank You!")
 
 
 '''                               End of the Solution of Lecture 02.py                     '''
-
-
-a = "Mera Name Rohan hai""Karan"
-print(a)
