@@ -1,0 +1,242 @@
+============================================================
+LECTURE 2 : PYTHON BASICS
+=========================
+
+Reminder:
+Kal humne sikha tha:
+
+1. Python kya hota hai?
+2. Python se hum kya-kya kar sakte hain?
+3. Python aur VS Code ka installation setup.
+
+============================================================
+TODAY CONTINUE
+==============
+
+Aaj hum seekhenge:
+
+1. Laptop me file aur folder create karna
+2. Project folder ko first time VS Code me open karna
+3. VS Code ke andar Python file create karna
+4. Python extension ke baare me samajhna
+5. print() function ka use karna
+
+============================================================
+TOPIC 1 : PROJECT FOLDER CREATE KARNA
+=====================================
+
+Sabse pahle hum apne laptop me ek project folder create karenge.
+
+Steps:
+
+Step 1:
+Desktop par jaayein.
+
+Step 2:
+Khaali jagah par Right Click karein.
+
+Step 3:
+New option par jaayein.
+
+Step 4:
+Folder par click karein.
+
+Step 5:
+Folder ka naam rakhein:
+
+My First Project
+
+Step 6:
+Folder ka naam likhne ke baad Enter press karein.
+
+Result:
+Ab hamara project folder successfully create ho chuka hai.
+
+Shortcut Key:
+
+Ctrl + Shift + N
+
+Is shortcut key se new folder create ho jata hai.
+
+============================================================
+TOPIC 2 : PROJECT FOLDER KO VS CODE ME OPEN KARNA
+=================================================
+
+Ab hum apne project folder ko VS Code me open karenge.
+
+Steps:
+
+Step 1:
+Sabse pahle VS Code open karein.
+
+Step 2:
+Upar left side me File option par click karein.
+
+Step 3:
+Open Folder option par click karein.
+
+Step 4:
+Desktop par jaayein.
+
+Step 5:
+My First Project folder ko select karein.
+
+Step 6:
+Select Folder button par click karein.
+
+Result:
+Ab aapka project folder VS Code me successfully open ho jayega.
+
+Note:
+
+Folder ko select karne ke baad agar Shift + Mouse Right Click karein,
+to Open in VS Code ka option show ho sakta hai.
+
+============================================================
+TOPIC 3 : VS CODE KE ANDAR PYTHON FILE CREATE KARNA
+===================================================
+
+Ab hum VS Code ke andar apni first Python file create karenge.
+
+Steps:
+
+Step 1:
+Left side me Explorer section me jaayein.
+
+Step 2:
+Folder name ke paas dikh rahe New File icon par click karein.
+
+Step 3:
+File ka naam likhein:
+
+chapter.py
+
+Step 4:
+File name likhne ke baad Enter press karein.
+
+Result:
+Ab hamari first Python file create ho chuki hai.
+
+Note:
+
+.py Python file ki extension hoti hai.
+
+============================================================
+QUESTION 1 : PYTHON KI EXTENSION KYA HOTI HAI?
+==============================================
+
+Answer:
+
+Extension kisi file ke naam ke end me aane wale kuch letters hote hain,
+jo batate hain ki file kis type ki hai.
+
+Example:
+
+program.py
+hello.py
+calculator.py
+
+Yahaan .py Python ki most common file extension hai.
+
+Isme:
+
+hello  = File ka naam
+.py    = Python ki extension
+
+============================================================
+QUESTION 2 : EXTENSION KI ZARURAT KYON HOTI HAI?
+================================================
+
+Answer:
+
+Extension ki help se computer samajhta hai ki is file ko kis software
+se open ya run karna hai.
+
+============================================================
+QUESTION 3 : PYTHON KA FIRST FUNCTION KAUN SA HAI?
+==================================================
+
+Answer:
+
+Python me sabse pahle sikhaya jaane wala function print() hota hai.
+
+============================================================
+QUESTION 4 : print() FUNCTION KYA KARTA HAI?
+============================================
+
+Answer:
+
+print() function ka use screen par message, number ya variable ka value
+show karne ke liye kiya jata hai.
+
+Example 1:
+
+print("Hello, World!")
+
+Output:
+
+Hello, World!
+
+Example 2:
+
+print("To kaise hai aap log?")
+
+Output:
+
+To kaise hai aap log?
+
+============================================================
+PYTHON KE FILE KO RUN KAISE KIYA JATA HAI ?
+=========
+
+Aapne vs code mein apna program write kar diya, ab code Run karna sikhenge (Output kaise dekhte hain).
+
+Let's Start : Code ko Run (Execute) karna VS Code mein
+
+Steps:
+1. Apni chapter.py file mein code likhein.
+2. Upar right side mein ek "Play" button (triangle shape) dikhega, uspe click karein. (Ya shortcut key use karein: Ctrl + F5 ya Ctrl + Alt + N).
+3. Neeche Terminal (ek black/white box) khulega jisme aapka output dikh jayega.
+
+
+Note : Terminal and output mein kya fark hai ye mein aapko aage wale lecture mein samjhata hun with example.
+
+
+============================================================
+TASK TIME
+=========
+
+Task:
+Given word ko output me show karna hai.
+
+---
+
+Demo Task:
+Good Morning
+
+Solution:
+
+print("Good Morning")
+
+Output:
+
+ Good Morning
+
+Task 1:
+Welcome to Python
+
+
+Task 2:
+My name is Rohan
+
+
+Task 3:
+I am learning Python Programming
+
+
+Task 4:
+Thank You!
+
+============================================================
+DAY 2 FINISH HERE
+=================

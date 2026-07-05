@@ -1,0 +1,218 @@
+============================================================
+LECTURE 01 : PYTHON BASICS
+==========================
+
+============================================================
+ANNOUNCEMENT
+============
+
+Har roz hum sabhi topics ka easy version seekhenge.
+
+Pehle hum easy questions solve karenge.
+
+Uske next day hum usi topic ka hard version seekhenge
+aur uske questions solve karenge.
+
+Is tarah hum har topic ko proper complete karenge.
+
+Daily Learning Process:
+
+Day 1:
+Theory cover karenge.
+
+Day 2:
+Usi topic ke questions solve karenge.
+
+Isse aapko topic ekdam clearly samajh aa jayega.
+
+Aapki theory ke saath-saath practical practice bhi complete ho jayegi.
+
+Task Process:
+
+Har roz jaise hi hamara topic complete hoga,
+main aapko task assign karunga.
+
+Aap us task ko solve karke apne GitHub par upload karenge.
+
+Note:
+
+Task thoda late solve hoga to bhi chalega,
+lekin completed task GitHub par add karna mat bhulna.
+
+GitHub par task update karne se:
+
+1. Aapki consistency 4X badhegi.
+2. Aap apni learning ko track kar paayenge.
+3. Aapka coding portfolio bhi strong banega.
+
+============================================================
+TOPIC 1 : INTRODUCTION TO PYTHON LANGUAGE
+=========================================
+
+Python ek programming language hai.
+
+Jaise market me bahut saari programming languages available hain,
+waise hi Python bhi ek popular programming language hai.
+
+Har programming language ki apni-apni features aur capabilities hoti hain.
+
+============================================================
+TOPIC 2 : POPULAR PROGRAMMING LANGUAGES
+=======================================
+
+Yahaan kuch famous programming languages ki list di gayi hai:
+
+1. Python
+2. Java
+3. JavaScript
+4. C++
+5. Ruby
+6. C#
+7. PHP
+8. Go
+9. Swift
+10. Kotlin
+11. Rust
+
+============================================================
+TOPIC 3 : MARKET ME KITNI PROGRAMMING LANGUAGES HAIN?
+=====================================================
+
+Programming languages ke baare me kuch important points:
+
+1. History me 1000+ programming languages exist kar chuki hain.
+
+2. Unme se lagbhag 200–300 languages ko log jaante hain.
+
+3. Practical industry use me lagbhag 20–50 languages zyada popular hain.
+
+============================================================
+QUESTION 1 : PYTHON LANGUAGE KA MEANING KYA HAI?
+================================================
+
+Answer:
+
+Python ek computer programming language hai.
+
+Iska use program create karne ke liye kiya jata hai.
+
+============================================================
+QUESTION 2 : PYTHON LANGUAGE KISNE AUR KAB BANAYI?
+==================================================
+
+Answer:
+
+Python language Guido van Rossum ne banayi thi.
+
+Python ko 1989 me create kiya gaya tha.
+
+Python ka first public release version 0.9.0 saal 1991 me aaya tha.
+
+============================================================
+TOPIC 4 : COMMON USES OF PYTHON
+===============================
+
+Python ka use bahut saare fields me hota hai.
+
+Common uses of Python:
+
+1. Web Development
+2. Artificial Intelligence AI
+3. Machine Learning
+4. Data Science
+5. Automation and Scripting
+6. Data Analytics
+7. Cybersecurity Tools
+
+============================================================
+TOPIC 5 : PYTHON INSTALLATION
+=============================
+
+Sabse pehle hum Python ko Python ki official website se install karenge.
+
+Python install karne ke liye neeche diye gaye link ka use karein.
+
+Python Link:
+
+Python Setup Video:
+
+Agar installation ke time kisi bhi tarah ki problem aaye,
+to aap setup video dekh sakte hain.
+
+============================================================
+TOPIC 6 : PYTHON CODE RUN KARNE KE APPLICATIONS
+===============================================
+
+Python code run karne ke liye humare paas multiple applications available hain.
+
+Some popular applications are:
+
+1. IDLE
+2. PyCharm
+3. Visual Studio Code
+4. Jupyter Notebook
+5. Spyder
+6. Google Colab
+7. Android Studio
+
+============================================================
+TOPIC 7 : VISUAL STUDIO CODE
+============================
+
+VS Code beginners ke liye ek bahut easy aur powerful code editor hai.
+
+Isliye hum apni coding journey ki shuruaat Visual Studio Code
+install karke kar sakte hain.
+
+VS Code install karne ke liye neeche diya gaya link use karein.
+
+VS Code App Link:
+
+VS Code Setup Video:
+
+Agar VS Code install karne me problem aaye,
+to aap setup video dekh sakte hain.
+
+============================================================
+DAY 1 TASK
+==========
+
+Task 1:
+
+Aaj ka task hai:
+
+1. Python install karna.
+2. VS Code install karna.
+3. Setup video dekhkar installation complete karna.
+
+Agar installation ke baad bhi koi issue aaye,
+to aap hamari community me message kar sakte hain.
+
+Community link description me available hai.
+
+============================================================
+IMPORTANT NOTE
+==============
+
+Lecture 2 ka video jaldi hi aane wala hai.
+
+Isliye Instagram par follow karke notification on kar lena.
+
+Lecture 2 aate hi story par update lag jayega,
+jisse aapko pata chal jayega ki Lecture 2 aa gaya hai.
+
+============================================================
+TODAY TASK
+==========
+
+Today no coding task.
+
+Aaj ka kaam:
+
+1. Python ke baare me deeply samajhna.
+2. Programming language kya hoti hai, isko revise karna.
+3. Python aur VS Code installation process complete karna.
+
+============================================================
+DAY 1 FINISH HERE
+=================
