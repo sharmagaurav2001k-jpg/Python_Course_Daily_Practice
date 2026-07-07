@@ -203,8 +203,8 @@ Note : Terminal and output mein kya fark hai ye mein aapko aage wale lecture mei
 
 
 ============================================================
-TASK TIME
-=========
+TASK Solve :
+=============
 
 Task:
 Given word ko output me show karna hai.
@@ -238,5 +238,70 @@ Task 4:
 Thank You!
 
 ============================================================
-DAY 2 FINISH HERE
-=================
+DAY 2 Task For Practice :
+==========================
+
+Task 1: New Project Folder Create Karna
+
+Objective:
+Laptop me Python practice ke liye ek project folder banana.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Task 2: Project Folder Ko VS Code Me Open Karna
+
+Objective:
+Created project folder ko VS Code ke andar open karna.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Task 3: Python File Create Karna
+
+Objective:
+VS Code ke andar Python file create karna aur .py extension ka use samajhna.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Task 4: First Message Print Karna
+
+Objective:
+print() function ka use karke screen par message show karna.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Task 5: Apna Introduction Print Karna
+
+Objective:
+print() function ka use karke apna short introduction screen par show karna.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Task 6: Python Learning Message Print Karna
+
+Objective:
+Python learning se related ek message output me show karna.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Task 7: Second Python File Create Karna
+
+Objective:
+VS Code ke andar ek aur Python file create karke .py extension ki practice karna.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Task 8: Run Button Practice
+
+Objective:
+Python file ko VS Code me run karna aur Terminal me output dekhna.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Master Challenge :
+
+Objective:
+Day 2 ke sabhi concepts ko combine karke ek complete practical task karna.
+
+
+
+
