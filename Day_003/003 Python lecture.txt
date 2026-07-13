@@ -2,13 +2,24 @@
 
 Reminder: 
 
-Kal humne sikha tha ki VS Code mein folder kaise open karte hain, 
+Reminder: Kal humne sikha
 
-.py file kaise banate hain, 
+- Laptop me file aur folder create karna
+- Project folder ko first time VS Code me open karna
+- VS Code ke andar Python file create karna
+- Python extension ke baare me samajhna
+- print() function ka use karna
 
-aur print() function kya karta hai.
+Today Continue: Aaj hum shikhenge
 
-Today Continue:
+- Comment kya hota hai
+- syntex kya hota hai
+- keyword kya hota hai
+- variable kya hota hai
+- Data type kya hota hai
+- Input Function
+
+- Task Time
 
 ============================================================
 Topic 1: Comments Kya Hote Hain? (Very Important)
@@ -58,7 +69,54 @@ print("Hello Python")
 
 
 ============================================================
-Topic 2: Variables Kya Hote Hain? (Very Important)
+Topic 2: Syntex 
+===============
+     
+               - Syntax programming language ke rules hote hain, jo batata hain ki code ko kis correct structure, order, aur format mein likhna hai.
+
+
+# Syntax ka matlab hota hai code likhne ka sahi tarika.
+
+Example :
+          print("Hello World")
+
+# Yeh Python ka correct syntax hai.
+
+
+print "Hello World"
+
+# Toh Python error dega, kyunki yeh correct syntax nahi hai.
+
+
+
+============================================================
+Topic 3 : Keywords 
+==================
+
+               - Keywords ka matlab hota hai aise special words jo programming language ke andar already defined hote hain, aur jinhe hum variable name, function name, 
+                    ya file name ki tarah use nahi kar sakte.
+
+     
+Example:
+          if
+          else
+          for
+          while
+          def
+          class
+          return
+          True
+          False
+          None
+
+
+# Ye sab Python ke keywords hain.
+
+# Or bhi bhot sare keywords hote hai.
+
+
+============================================================
+Topic 4 : Variables Kya Hote Hain? (Very Important)
 ===============
 
 -Variable kya hota hai?
@@ -104,7 +162,7 @@ Note : agar aapko in sabhi rule ko yaad nahi rakhna to always small charecters u
 
 
 ============================================================
-Topic 3: Data Types Kya Hote Hain?
+Topic 5: Data Types Kya Hote Hain?
 ===============
 
 - variable ke right side jo value hoti hai use data kahte hai, 
@@ -258,6 +316,133 @@ Example 2:
 
 
 Note : Data type topic ye samjhne ke liye use hota hai ki variable mein stored Value(Data) kis type ka hai - means vo string hai, integer hai, ya float hai.
+
+Note : type() function ka use kar ke aap pata kar sakte hai kl variable string , float ya boolean kis prakar ka data type hai.
+
+Example:
+
+          x = 10
+          y = 10.5
+          z = "Hello"
+          w = True
+
+          print(type(x))    # <class 'int'>
+          print(type(y))    # <class 'float'>
+          print(type(z))    # <class 'str'>
+          print(type(w))    # <class 'bool'>
+
+
+
+So our Day 3 class is complete here. Ab thoda sa hum task ka practice kar lete hain, jisse hamara jo doubt hai, wo poora clear ho jayega.
+
+============================================================
+Input Function :
+================
+
+          - Input function ek built-in function hai jo program ko user dwara enter kiya gaya data receive karne ki suvidha deta hai.
+               Python mein input() program ko temporarily rok deta hai, user se keyboard ke through value enter karwata hai, aur us value ko "string" ke form mein return karta hai. Iska use tab hota hai jab program ko fixed value ki jagah user se provide ki gayi value chahiye hoti hai.
+
+
+Example 1:
+
+          name = input("Enter your name: ")
+
+          print(name)
+
+Output:
+
+          Enter your name: Rahul
+          Rahul
+
+# Yaha par name variable banaya gaya.
+# Phir input() function ka use karke user se name enter karwaya gaya.
+# Jab user ne Rahul type kiya, to Rahul value name variable ke andar store ho gayi.
+# Jaise hi humne print(name) run kiya, output mein Rahul print ho gaya.
+
+Example 2:
+
+          city = input("Enter your city: ")
+
+          print("Your city is", city)
+
+Output:
+
+          Enter your city: Ahmedabad
+          Your city is Ahmedabad
+
+# Yaha par city variable banaya gaya.
+# Phir input() function se user se city ka name enter karwaya gaya.
+# Jab user ne Ahmedabad type kiya, to Ahmedabad value city variable ke andar store ho gayi.
+# Phir print() function ke through output mein Your city is Ahmedabad print ho gaya.
+
+
+Note: input() function user se value lene ke liye use hota hai.
+          input() function hamesha user ki value ko by default string ke form mein leta hai.
+          Agar user number bhi enter kare, tab bhi input() use string maanta hai.
+
+
+
+
+
+
+============================================================
+TASK TIME
+=========
+
+Task 1 :
+          - Create task_1.py file.
+
+          - Create three variables in Python: city_name, favorite_food, and food_price. Assign your city name, 
+               your favorite food, and its approximate price.
+
+
+Hinglish : - Python mein teen variables create karo.: city_name, favorite_food, and food_price. Apne city ka naam, apna favorite food, aur uski approximate price assign karo.
+
+
+Task 2:
+          - Create task_2.py file.
+
+          - Single-line aur multi-line comments ke beech ka difference show karo. Ek Python script likho jo explain kare ki
+               Amazon product recommendation system kaise kaam kar sakta hai. Single-line comments ke liye # aur multi-line comments ke liye triple quotes (''' ya """) ka use karo.
+
+
+Task 3:
+          - Create task_3.py file.
+
+          - Single-line aur multi-line comments ke beech ka difference show karo. 
+               Ek Python script likho jo explain kare ki YouTube video recommendation system kaise kaam kar sakta hai. Single-line comments ke liye # aur multi-line comments ke liye triple quotes (''' ya """) ka use karo.
+
+
+
+Note: Agar Task 2 aur Task 3 zyada samajh mein na aaye, to single-line comment aur multi-line comment ka use karke beech mein koi bhi story likh dena, wo bhi chalega. Koi dikkat nahi hai. Ye question sirf comments ka use dikhane ke liye hai, kisi aur cheez ke liye nahi.
+
+
+
+
+Task 4:
+
+          - Ek Amazon product ko represent karne ke liye product_name, price, aur is_prime_eligible naam ke variables banao.
+               Teeno ka use karke ek sentence print karo, jaise — '[product_name] costs ₹[price] and Prime eligible:[is_prime_eligible].
+
+Task 5 :
+
+          - Ek Uber ride ko represent karne ke liye pickup_location, drop_location, aur fare_amount naam ke variables banao.
+                Teeno ka use karke ek sentence print karo, jaise — 'Ride from [pickup_location] to [drop_location] costs ₹[fare_amount].'
+
+
+Task 6 :
+
+
+          - Ek student ki marksheet ko represent karne ke liye student_name, total_marks, aur percentage naam ke variables banao. Teeno ka use karke ek sentence print karo, jaise — '[student_name] scored [total_marks] marks with a percentage of [percentage]%.'
+
+
+Task 7 :
+          - Ek Python script likho jisme jaanbujhkar tabs aur spaces ka mix indentation ke liye kiya gaya ho, phir script ko fix karo taaki wo bina kisi error ke chale.
+
+
+============================================================= Day 03 Lecture is complete here ===========================================================================
+
+
 
 
 
