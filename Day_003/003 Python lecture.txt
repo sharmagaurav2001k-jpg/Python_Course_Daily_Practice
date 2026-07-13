@@ -1,7 +1,5 @@
 =========================================================== Lecture 3 Python Basics (Part 2) ===================================================================================
 
-Reminder: 
-
 Reminder: Kal humne sikha
 
 - Laptop me file aur folder create karna
