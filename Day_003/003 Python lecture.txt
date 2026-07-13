@@ -113,23 +113,154 @@ Topic 3: Data Types Kya Hote Hain?
 
 Data type : String, integer, Float, Complex, boolean, non
 
-
+----------------
 String :
+-----------
 
-- String ek data type hai jo text ya characters ke sequence ko represent karta hai. 
-     Ise hamesha single quotes (' ') ya double quotes (" ") ke andar likha jaata hai.
-
-# Single quotes wali string
-naam = 'Rahul'
-
-# Double quotes wali string
-message = "Hello Python"
-
-# Numbers bhi agar quotes mein hain, to wo string ban jaate hain
-roll_no = "101"   # Ye string hai, number nahi
+- SAisa data type jo text and values dono ko store karta hai.
+     Iska use un values ke liye hota hai jisme words, letters, sentences, symbols ya numbers text ke form mein hote hain.
+     String value ko hamesha single quotes (' ') ya double quotes (" ") ke andar likha jaata hai.
 
 
-Note : Variable ke right side quotes ke bich mein ane wale all keyword ko string kahte hai.
+Example 1:
+
+          name = "Rahul"
+          city = "Ahmedabad"
+          course = "Python"
+          mobile = "9876543210"
+          message = "Welcome to Python Class"
+
+# Text wali value ho to STRING.
+# Number ko text form mein store kiya ja sakta hai. but iske liye questes mendetory hai.
+# String ke andar alphabets, numbers, spaces aur symbols bhi store ho sakte hain.
+
+Example 2:
+
+          first_name = "Rahul"
+          last_name = "Sharma"
+          full_name = first_name + " " + last_name
+
+          print(full_name)
+
+
+Output:
+          Rahul Sharma
+
+
+# Yaha par first_name = "Rahul" aur last_name = "Sharma" tha.
+# Phir hume ek variable diya gaya full_name name ka aur usme first_name + " " + last_name store kiya.
+# Yaha + operator ka use do strings ko join karne ke liye kiya gaya.
+# " " ka use beech mein space dene ke liye kiya gaya.
+# Jaise hi humne system run kiya, dono strings join ho gayi.
+# Isliye output mein "Rahul Sharma" print ho gaya.
+
+# Agar hum text value ko quotes ke bina likhenge, to Python usse variable samjhega aur error dega.
+
+
+Note : String ko hamesha quotes ke andar likhna zaruri hota hai. and Vriable ko kabhi bhi questes ke andar mat likhna.
+
+
+--------------------
+Integer :
+-----------
+
+- Integer (int) ek aisa data type hai jisme poore number (whole numbers) store hote hain — yani wo numbers jinme decimal point (.) nahi hota.
+     Yeh numbers positive, negative, ya zero koi bhi ho sakte hain.
+
+
+# Decimal (.) na ho to INTEGER
+
+Example 1:
+age = 20
+marks = 95
+temperature = -5
+count = 0
+
+Example 2:
+num1 = 15
+num2 = 10
+total = num1 + num2
+
+      print(total)
+
+ Out put :
+           25
+
+# Yaha par num1 = 15 aur num2 = 10 tha.
+# Phir humne ek variable diya gaya total name ka aur usme num1 + num2 store kiya.
+# Jaise hi humne system run kiya, 15 aur 10 ko add kiya gaya.
+# Addition ka result 25 aaya, jisme decimal (.) nahi tha.
+# Isliye output mein INTEGER value (25) print ho gayi.
+
+
+-----------------
+Float :
+--------
+
+- Float (float) = Aisa data type jo decimal (point wale) numbers ko store karta hai.
+     Iska use un values ke liye hota hai jisme decimal (.) hota hai. Decimal (.) wala number ho to "FLOAT"
+     Decimal ke saath positive ya negative dono value ho sakti hai.
+     
+
+     Example 1:
+     price = 99.99
+     temperature = 36.5
+     height = 5.8
+     balance = -250.75
+
+     Example 2:
+     num1 = 10
+     num2 = 3
+     result = num1 / num2
+
+      print(result)
+
+ Out put :
+           3.3333333333333335
+
+# Yaha par num1 = 10 aur num2 = 3 tha.
+# Phir humne ek variable diya gaya result name ka aur usme num1 / num2 store kiya.
+# Jaise hi humne system run kiya, 10 ko 3 se divide kiya gaya.
+# Division ka result decimal mein aaya, isliye output FLOAT value (3.3333333333333335) print ho gayi.
+
+------------------
+Boolean:
+-----------
+
+
+- Boolean (bool) = Aisa data type jo sirf do values store karta hai: True ya False. 
+     Iska use kebal do condition ke result ko represent karne ke liye hota hai.
+
+
+# condition agar right hota hai to TRUE
+
+# condition agar wrong hota hai to FALSE
+
+Example 1:
+          is_logged_in = True
+          has_permission = False
+          is_adult = True
+          is_raining = False
+
+
+Example 2:
+          age = 20
+          is_adult = age >= 18
+
+          print(is_adult)
+
+     Out put :
+               TRUE
+
+# Yaha par age = 20 tha phir humne ek variable diya gya
+# is_adult name ka or usme ye declare tha ki age jo hai vo 10 se bada hai.
+# jaise humne system run kiya chek huaa ki age 18 se bada hai ya nahi, condition true hone ke vajah se output mein TRUE print ho gaya.
+
+
+Note : Data type topic ye samjhne ke liye use hota hai ki variable mein stored Value(Data) kis type ka hai - means vo string hai, integer hai, ya float hai.
+
+
+
 
 
 
